@@ -1,10 +1,9 @@
 @import 'modern-css-reset';
 
-h1 {
-  color: hotpink;
-  font-family: cursive;
-}
-
-#app {
-    height: 100vh;
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: normal;
 }
